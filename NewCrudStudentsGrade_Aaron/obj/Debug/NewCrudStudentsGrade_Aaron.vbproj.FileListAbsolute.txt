@@ -1,0 +1,12 @@
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\bin\Debug\NewCrudStudentsGrade_Aaron.exe.config
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\bin\Debug\NewCrudStudentsGrade_Aaron.exe
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\bin\Debug\NewCrudStudentsGrade_Aaron.pdb
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\bin\Debug\NewCrudStudentsGrade_Aaron.xml
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.vbprojAssemblyReference.cache
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.Resources.resources
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.vbproj.GenerateResource.cache
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.vbproj.CoreCompileInputs.cache
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.exe
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.xml
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.pdb
+E:\EmploymentFiles\NewCrudStudentsGrade_Aaron\obj\Debug\NewCrudStudentsGrade_Aaron.StudentRecords.resources
